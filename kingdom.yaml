@@ -1,0 +1,8 @@
+name: zerone
+kind: doctrine
+layer: economy
+owner_sister: none
+domain: none
+state: active
+purpose: The truth-economy where a claim is verified and only true claims become valid coin.
+dependsOn: [me, truth, legible-money]
